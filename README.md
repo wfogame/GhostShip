@@ -1,0 +1,2 @@
+# GhostShip
+Ghosty
